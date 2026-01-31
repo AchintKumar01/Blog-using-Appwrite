@@ -1,1 +1,1 @@
-# Blog-using-Appwrite
+# Blog using Appwrite
